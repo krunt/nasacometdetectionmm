@@ -1,0 +1,5 @@
+
+IMAGEDIM = 1024
+BOXRADIUS = 24
+BOXOFFS = 32
+BEST_MODELNAME = 'model.comet.best.pth'
